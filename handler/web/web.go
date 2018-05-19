@@ -11,9 +11,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-api/handler"
-	"github.com/micro/go-micro/selector"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-api/handler"
+	"github.com/bottos-project/go-micro/selector"
 )
 
 type webHandler struct {

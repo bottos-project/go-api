@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/micro/go-api/handler"
-	"github.com/micro/go-micro/registry"
+	"github.com/bottos-project/go-api/handler"
+	"github.com/bottos-project/go-micro/registry"
 )
 
 const (

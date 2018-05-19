@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/micro/go-api"
+	"github.com/bottos-project/go-api"
 )
 
 func TestRouter(t *testing.T) {

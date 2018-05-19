@@ -7,14 +7,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-api/handler"
-	proto "github.com/micro/go-api/internal/proto"
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/selector"
-	"github.com/micro/util/go/lib/ctx"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-api/handler"
+	proto "github.com/bottos-project/go-api/internal/proto"
+	"github.com/bottos-project/go-micro/client"
+	"github.com/bottos-project/go-micro/errors"
+	"github.com/bottos-project/go-micro/registry"
+	"github.com/bottos-project/go-micro/selector"
+	"github.com/bottos-project/util/go/lib/ctx"
 )
 
 type rpcHandler struct {

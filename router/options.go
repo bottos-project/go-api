@@ -1,9 +1,9 @@
 package router
 
 import (
-	"github.com/micro/go-api"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-micro/cmd"
+	"github.com/bottos-project/go-micro/registry"
 )
 
 type Options struct {

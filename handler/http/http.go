@@ -7,9 +7,9 @@ import (
 	"net/http/httputil"
 	"net/url"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-api/handler"
-	"github.com/micro/go-micro/selector"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-api/handler"
+	"github.com/bottos-project/go-micro/selector"
 )
 
 type httpHandler struct {

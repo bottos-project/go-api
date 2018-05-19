@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/go-api/handler"
-	proto "github.com/micro/go-api/proto"
-	"github.com/micro/util/go/lib/ctx"
+	"github.com/bottos-project/go-api/handler"
+	proto "github.com/bottos-project/go-api/proto"
+	"github.com/bottos-project/util/go/lib/ctx"
 	"github.com/pborman/uuid"
 )
 

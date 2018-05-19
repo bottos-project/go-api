@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-rcache"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-micro/registry"
+	"github.com/bottos-project/go-rcache"
 )
 
 // Router is used to determine an endpoint for a request

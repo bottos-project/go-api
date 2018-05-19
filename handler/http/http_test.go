@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-api/handler"
-	"github.com/micro/go-api/router"
+	"github.com/bottos-project/go-api"
+	"github.com/bottos-project/go-api/handler"
+	"github.com/bottos-project/go-api/router"
 	"github.com/micro/go-micro/cmd"
 	"github.com/micro/go-micro/registry"
 	rmock "github.com/micro/go-micro/registry/mock"
